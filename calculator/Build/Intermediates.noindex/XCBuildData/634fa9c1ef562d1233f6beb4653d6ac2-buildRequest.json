@@ -1,0 +1,57 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "c82fc881b794d33b7eede9173569be2ed0a2105a00f22bab51fbd4a3bfb918bc"
+    }
+  ],
+  "containerPath" : "/Users/asshejan/Desktop/C pro/calculator/calculator.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/asshejan/Desktop/C pro/calculator/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/asshejan/Desktop/C pro/calculator/Build/Products",
+      "derivedDataPath" : "/Users/asshejan/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/asshejan/Library/Developer/Xcode/DerivedData/calculator-hgfaybovkbxvwlethwqebvvmgigx/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/asshejan/Library/Developer/Xcode/DerivedData/calculator-hgfaybovkbxvwlethwqebvvmgigx/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/asshejan/Desktop/C pro/calculator/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
